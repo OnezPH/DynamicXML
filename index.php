@@ -1,5 +1,13 @@
 <?php
 $xml=simplexml_load_file("dynamicXML.xml") or die("Error: Cannot create object");
+foreach($xml->children() as $link) {
+    echo $link->company . "<br>";
+    echo $link->product . "<br>";
+    echo $link->prices . "<br>";
+    echo $link->image . "<br>";
+    echo $link->url . "<br>" . "<br>";
+}
+/*
 echo $xml->link[0]->company . "<br>";
 echo $xml->link[0]->product . "<br>";
 echo $xml->link[0]->prices . "<br>";
@@ -125,4 +133,5 @@ echo $xml->link[20]->product . "<br>";
 echo $xml->link[20]->prices . "<br>";
 echo $xml->link[20]->image . "<br>";
 echo $xml->link[20]->url;
+*/
 ?>
