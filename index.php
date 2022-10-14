@@ -1,11 +1,17 @@
 <?php
 $xml=simplexml_load_file("dynamicXML.xml") or die("Error: Cannot create object");
+$link = array("Company : ", "Product : ", "Price : ", "Image : " , "URL : ");
 foreach($xml->children() as $link) {
-    echo $link->"Company : " . company . "<br>";
-    echo $link->"Product : " . product . "<br>";
-    echo $link->"Prices : " . prices . "<br>";
-    echo $link->"Image : " . image . "<br>";
-    echo $link->"URL : " . url . "<br>" . "<br>";
+    echo $link[0];
+    echo $link->company . "<br>";
+    echo $link[1];
+    echo $link->product . "<br>";
+    echo $link[2];
+    echo $link->prices . "<br>";
+    echo $link[3];
+    echo $link->image . "<br>";
+    echo $link[4];
+    echo $link->url . "<br>" . "<br>";
 }
 /*
 echo $xml->link[0]->company . "<br>";
