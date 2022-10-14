@@ -124,5 +124,5 @@ echo $xml->link[20]->company . "<br>";
 echo $xml->link[20]->product . "<br>";
 echo $xml->link[20]->prices . "<br>";
 echo $xml->link[20]->image . "<br>";
-echo $xml->link[20]->url . "<br>" . "<br>";
+echo $xml->link[20]->url;
 ?>
