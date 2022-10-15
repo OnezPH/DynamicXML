@@ -1,5 +1,5 @@
 <?php
-$xml=simplexml_load_file("dynamicXML.xml") or die("Error: Cannot create object");
+$xml=dynamic_xml("dynamicXML.xml") or die("Error: Cannot create object");
 $label = array("Company : ", "Product : ", "Price : ", "Image : " , "URL : ");
 foreach($xml->children() as $link) {
     echo $label[0];
