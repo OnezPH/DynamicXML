@@ -1,143 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
     <link>
-        <company>HONDA</company>
-        <product>HONDA CIVIC</product>
-        <prices>₱938,000 - 1.078 Million</prices>
-        <image>https://imgs.search.brave.com/NwCymaEp-ro63i2GKQnAN6b6Fuof1UDFcxuLdeFU1E8/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4y/ZzVQVEE1VnJ6ME9E/b3pEdTJ3YjJBSGFF/SyZwaWQ9QXBp</image>
-        <url>https://www.hondacityli.com/</url>
+        <company>Amazon</company>
+        <product>SPEENSUN Low Carb Rice Cooker,Small Rice Cooker,2/3/4Cups (Uncooked) Digital Touch mini Rice Cooker,Nonstick InnerPot,24Hours Preset and Keep Warm,For Brown Ricer,White Rice,For Diabetics</product>
+        <prices>$99.99</prices>
+        <image>https://m.media-amazon.com/images/I/5194D+kwZ8L._AC_SX522_.jpg</image>
+        <url>https://www.amazon.com/SPEENSUN-Small-Rice-Cooker/dp/B093SRK8F1/ref=sr_1_5?crid=4TMXPL264LS4&keywords=Rice+Cooker+99&qid=1666234095&qu=eyJxc2MiOiIxLjQyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=rice+cooker+99%2Caps%2C571&sr=8-5</url>
     </link>
     <link>
-        <company>HONDA</company>
-        <product>HONDA CITY</product>
-        <prices>₱1.368 - 1.76 Million</prices>
-        <image>https://imgs.search.brave.com/O8J3YyZI31Go48EtDJTTHJWy3r2KMeo5mtY4iuGhlFk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9kbmQu/Y29tLnBrL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA3L0hv/bmRhX0NpdHlfVl9F/eHQtMS0xLmpwZw</image>
-        <url>https://automobiles.honda.com/civic-sedan</url>
+        <company>Amazon</company>
+        <product>Bose SoundLink Around Ear Wireless Headphones II - Black</product>
+        <prices>$179.84</prices>
+        <image>https://m.media-amazon.com/images/I/71jDdUuRi8L._AC_SY450_.jpg</image>
+        <url>https://www.amazon.com/Bose-SoundLink-around-ear-wireless-headphones/dp/B0117RGG8E/ref=sr_1_2?crid=191KSL39RF1C&keywords=Bose+SoundLink+Headphones&qid=1666235685&qu=eyJxc2MiOiIzLjAwIiwicXNhIjoiMi4wMyIsInFzcCI6IjEuNzMifQ%3D%3D&sprefix=ricer+99+cooke%2Caps%2C785&sr=8-2</url>
     </link>
     <link>
-        <company>NOKIA</company>
-        <product>NOKIA X30</product>
-        <prices>₹41,990</prices>
-        <image>https://imgs.search.brave.com/tcecKsa5o24AnKsRuwpjQ_zliVyxHk0nze0_Yh5f0cA/rs:fit:768:402:1/g:ce/aHR0cHM6Ly93b3Js/ZHZpZXcuY29tLnBr/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAzL05va2lhLVgz/MC1MaXRlLTIwMjEt/NzY4eDQwMi5qcGc</image>
-        <url>https://www.nokia.com/phones/en_int/nokia-x-30?sku=VMA751F9FI1AL0</url>
+        <company>Alibaba</company>
+        <product>Microphone Portable Camera Microphone Factory Price Vlog Live Broadcast Video Shotgun Microphone For mobile Cell Phone</product>
+        <prices>PHP 648.26
+        </prices>
+        <image>https://s.alicdn.com/@sc04/kf/Ha1c5233894d04a02b4ce668cf8a22583A.jpg_720x720q50.jpg</image>
+        <url>https://m.alibaba.com/product/1600549314148/Microphone-Portable-Camera-Mobile-Phone-Microphone.html?s=p</url>
     </link>
     <link>
-        <company>NOKIA</company>
-        <product>NOKIA G60</product>
-        <prices>₹24,990</prices>
-        <image>https://imgs.search.brave.com/y3LcH-GswksvPhZFhJ7d5qjYdmoCyJscgI8P8uNfCO0/rs:fit:800:800:1/g:ce/aHR0cHM6Ly93d3cu/cGhvbmVzdGFibGV0/cy5jby5rZS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMi8wOS9V/bnRpdGxlZC1kZXNp/Z24tMTEucG5n</image>
-        <url>https://www.nokia.com/phones/en_int/nokia-g-60</url>
+        <company>Alibaba</company>
+        <product>Studio Microphones Microphone Gaming MAONO Professional Metal Voice Recording Usb Condenser Studio Microphones PC Microphone Podcast Recording Gaming Microphones</product>
+        <prices>₱1,563.13 - ₱2,270.97</prices>
+        <image>https://s.alicdn.com/@sc04/kf/H1a88f88ed43544528e2f9d7f95859f99t.jpg_720x720q50.jpg</image>
+        <url>https://m.alibaba.com/product/60852482495/Studio-Microphones-Microphone-Gaming-MAONO-Professional.html?__detailProductImg=https%3A%2F%2Fs.alicdn.com%2F%40sc04%2Fkf%2FH1a88f88ed43544528e2f9d7f95859f99t.jpg_200x200.jpg</url>
     </link>
     <link>
-        <company>ASUS</company>
-        <product>ZENBOOK</product>
-        <prices>PHP 50,195</prices>
-        <image>https://imgs.search.brave.com/weSHjufiLraJnA0i0jfmDXyDT8v9YbYUUGZEy61HLrU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/bm90ZWJvb2tjaGVj/ay5uZXQvZmlsZWFk/bWluL19wcm9jZXNz/ZWRfLzUvOC9jc21f/WmVuQm9va18xNF9V/WDQzNF80ODk3ZmU4/YTdiLmpwZw</image>
-        <url>https://www.asus.com/Laptops/For-Home/Zenbook/</url>
+        <company>eBay</company>
+        <product>Apple Iphone 13 Mini 128gb 2021 Latest</product>
+        <prices>PHP 41,500.00</prices>
+        <image>https://i.ebayimg.com/images/g/zY4AAOSwa4xhSTEl/s-l500.jpg</image>
+        <url>https://www.ebay.ph/itm/294410071087?hash=item448c352c2f:g:zY4AAOSwa4xhSTEl&amdata=enc%3AAQAHAAAAwEFHvkgsfEUS8PFg0T2DnqGXHpQ52XGByQ%2Fp5j0ZUQqNwZQPAIDhxuP65wuULxKKXMzqwWW55Ij5bgq4oZeEDszccoGoKR0I7RHn8Zg8sDd0IMpLe1Lv%2FmwGqTlgZBahWrv1Zku7ybfYZCsphE7F4J4IsRMBasECpDqkwySNZixsYkG073NyX7D3A7EWX4Kp6v%2FFH%2FaodvPmfFG86cDR6JQboA8k7S9CT%2B2nIjHOIQqNufcK%2BChZ2AfKDG36dFEqDg%3D%3D%7Ctkp%3ABk9SR_jj0bf-YA</url>
     </link>
     <link>
-        <company>ASUS</company>
-        <product>VIVOBOOK</product>
-        <prices>PHP 34,995</prices>
-        <image>https://imgs.search.brave.com/sGdM0xOlppBbBLZGPuAxl-pTh4RmRUQQcUPPj0lrpaM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vbGFwdG9w/bWVkaWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzA3/LzM1Nzc5NjQwXzY1/NzM0OTU4ODguanBl/Zz9maXQ9NjA4NiUy/QzQyMTkmc3NsPTE</image>
-        <url>https://www.asus.com/Laptops/For-Home/Vivobook/</url>
+        <company>eBay</company>
+        <product>FOSSIL DAYLE BQ3596 Rose Gold Ladies Watch</product>
+        <prices>PHP 2,500.00</prices>
+        <image>https://i.ebayimg.com/images/g/CmIAAOSwFShjS3o9/s-l500.png</image>
+        <url>https://www.ebay.ph/itm/115571490519?hash=item1ae898fed7:g:CmIAAOSwFShjS3o9&amdata=enc%3AAQAHAAAAwMaSZeR%2BiQk4F4Q%2FkGeWvYMsJezRIBZCa5Jjd%2FsxJdI13IRTfs6cXj9XacjOPavh0hs3LKWAxD4bfBeLMg3BJ5Sv770qf%2BcivZTqxgeO6DIUvfXRJM9lgZ9suoU%2B19Nuwk1H%2Bbq4su2kL7onX36ZbX3dRPnoxxDblvfJ2pjKsGY%2BdzGbwKyF8U%2BkZIRLgaWcFymsFPKVJ3C9orr6tekaaPbwANSZb268vHxk6aGNX0WS5IVkgDZifLErPwPX3TDgMg%3D%3D%7Ctkp%3ABk9SR_bw2Lf-YA</url>
     </link>
     <link>
-        <company>HANABISHI</company>
-        <product>Hanabishi Aesthetic Desk Fan White Windmill</product>
-        <prices>₱1,560.00</prices>
-        <image>https://imgs.search.brave.com/0JieUwUasBgZRwE7jDSWlndRijRkufoQ3Hpd3ropgLg/rs:fit:700:800:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAw/ODEvNTU0Ni8zNzI3/L3Byb2R1Y3RzL3Nz/ZGQuem9uZS0xNTk5/MTEyMDYxLTRfMTAy/NHguanBnP3Y9MTYx/NDM5NTAxNg</image>
-        <url>https://myhanabishi.com/product/hanabishi-pearl-white-16%E2%80%B3-desk-fan/</url>
+        <company>Walmart</company>
+        <product>Joyspun Women's Long Sleeve Top and Jogger Pajama Set, 2-Piece, Sizes up to 3X</product>
+        <prices>$27.96</prices>
+        <image>https://i5.walmartimages.com/asr/4030283e-84e7-45b5-97c5-c165cb2e3f66.babd9f8bd20c79fb5d30bedcd8303471.jpeg</image>
+        <url>https://www.walmart.com/ip/Joyspun-Women-s-Long-Sleeve-Top-and-Jogger-Pajama-Set-2-Piece-Sizes-up-to-3X/988736691</url>
     </link>
     <link>
-        <company>HANABISHI</company>
-        <product>Hanabishi Window Type Airconditioner 2.5HP</product>
-        <prices>₱27,370.00</prices>
-        <image>https://myhanabishi.com/wp-content/uploads/2020/03/HWTAC-25S.jpg</image>
-        <url>https://myhanabishi.com/product/window-type-air-conditioner-hwtac-25s/</url>
+        <company>Walmart</company>
+        <product>Jockey® Essentials Durable Cotton Crew Neck T-shirt - 3 Pack</product>
+        <prices>$15.96</prices>
+        <image>https://i5.walmartimages.com/asr/e4900f06-6734-475b-a2ef-a1504825e6e3.bcdf4a0916da65e0869b493e3bbe58f7.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF</image>
+        <url>https://www.walmart.com/ip/Jockey-Essentials-Durable-Cotton-Crew-Neck-T-shirt-3-Pack/189071169?athbdg=L1600</url>
     </link>
     <link>
-        <company>JORDAN</company>
-        <product>AIR JORDAN XI</product>
-        <prices>PHP 29,205.23</prices>
-        <image>https://imgs.search.brave.com/8MPxQTkmLvFzsmNQGRYQewOtwTEU6awGVQor9i2bhyU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/QUpiNEt1OHdhX3VY/WVgtZW1XVlFRSGFF/SyZwaWQ9QXBp</image>
-        <url>https://www.jordan.com/collection/air-jordan-11</url>
+        <company>Groupon</company>
+        <product>Samsung Fast Adaptive Charger Original 2 Pack with 2 Micro USB OR Type-C Cables</product>
+        <prices>$12.99</prices>
+        <image>https://img.grouponcdn.com/stores/3vAs8mArj4n4RNnu71i76kf4319o/storesoi16189891-700x420/v1/c870x524.webp</image>
+        <url>https://www.groupon.com/deals/gg-mp-samsung-fast-adaptive-charger-original-2-pack-with-2-micro-usb-or-type-c-cables?deal_option=f31c1826-1468-4804-ae41-5e87a630fa63</url>
     </link>
     <link>
-        <company>JORDAN</company>
-        <product>NIKE AIR JORDAN XX3</product>
-        <prices>13,071.70</prices>
-        <image>https://imgs.search.brave.com/h-fZqUvY01dLII2HIZqWmcYRCoHOS4Vzi2xsXRFh0ko/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/R2stM05DVzVyT3N3/V3NxUkRSSzJBSGFF/byZwaWQ9QXBp</image>
-        <url>https://news.nike.com/news/jordan-brand-launches-air-jordan-xx3</url>
+        <company>Groupon</company>
+        <product>Hempz Herbal Body Moisturizer 17oz</product>
+        <prices>$34</prices>
+        <image>https://img.grouponcdn.com/stores/xuBUNAmDWGBmPQWT6fXZZDNyLHi/storesoi48819215-4200x2520/v1/c1400x840.webp</image>
+        <url>https://www.groupon.com/deals/gg-mp-hempz-herbal-body-moisturizer-17oz-many-scents-to-choose-from?deal_option=f3125c21-3e1a-4f02-b9a8-33b8e497812c</url>
     </link>
     <link>
-        <company>BENCH</company>
-        <product>LET'S FLAMINGLE BODY SPRAY</product>
-        <prices>PHP 167.00</prices>
-        <image>https://shop.bench.com.ph/media/catalog/product/cache/c1bff540af5328e052f3037ed956ff9d/t/c/tcb7100b_fl_f_za.jpg</image>
-        <url>https://shop.bench.com.ph/tcb7100b-summer-lets-flamingle-body-spray-100ml.html</url>
+        <company>Macys</company>
+        <product>Men's Slim-Fit Stretch Solid Suit Separates, Created for Macy's</product>
+        <prices>PHP 6,088.00</prices>
+        <image>https://slimages.macysassets.com/is/image/MCY/products/0/optimized/16426810_fpx.tif?op_sharpen=1&wid=500&hei=611&fit=fit,1&fmt=webp</image>
+        <url>https://www.macys.com/shop/product/alfani-mens-slim-fit-stretch-solid-suit-separates-created-for-macys?ID=10505035&CategoryID=17788</url>
     </link>
     <link>
-        <company>BENCH</company>
-        <product>BLUEBERRY BURST COLOGNE</product>
-        <prices>PHP125.00</prices>
-        <image>https://cdn.shopify.com/s/files/1/0368/8785/5243/products/64658_1800x1800.jpg?v=1629782753</image>
-        <url>https://www.carencurepharmacy.com/products/bench-blueberry-burst-bratsplash-cologne-100ml</url>
+        <company>Macys</company>
+        <product></product>
+        <prices>PHP 1,659.00</prices>
+        <image>https://slimages.macysassets.com/is/image/MCY/products/3/optimized/14022843_fpx.tif?op_sharpen=1&wid=500&hei=611&fit=fit,1&fmt=webp</image>
+        <url>https://www.macys.com/shop/product/inc-international-concepts-womens-zip-pocket-blouse-created-for-macys?ID=9348758&CategoryID=255</url>
     </link>
     <link>
-        <company>GUCCI BAG</company>
-        <product>BAMBOO SMALL BACKPACK</product>
-        <prices>$ 2,550</prices>
-        <image>https://imgs.search.brave.com/N2jgwJM1On9XfGCZqgvJL6gMvq6JNaLg43MU5IJg_Xo/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wcm9k/dWN0LWltYWdlczQu/dGhlcmVhbHJlYWwu/Y29tL0dVQzExMTQz/OV8xX2VubGFyZ2Vk/LmpwZw</image>
-        <url>https://www.neimanmarcus.com/page-not-found</url>
+        <company>Samsung</company>
+        <product>Galaxy Z Fold4</product>
+        <prices>₱98,990.00</prices>
+        <image>https://images.samsung.com/ph/smartphones/galaxy-z-fold4/images/galaxy-z-fold4_highlights_kv_s.jpg</image>
+        <url>https://www.samsung.com/ph/smartphones/galaxy-z-fold4/</url>
     </link>
     <link>
-        <company>GUCCI BAG</company>
-        <product>GG MARMONT SMALL SHOULDER BAG</product>
-        <prices>$ 2,550</prices>
-        <image>https://imgs.search.brave.com/fX5pzysrUdZP3KDrTqshl7zaGF3F0abYz-L4dCos8Bs/rs:fit:800:800:1/g:ce/aHR0cHM6Ly93d3cu/bHVsdXgucnUvd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDcv/R3VjY2ktV29tZW4t/R0ctTWFybW9udC1T/bWFsbC1TaG91bGRl/ci1CYWctTWF0ZWxh/c3MlQzMlQTktT3Jp/Z2luYWwtQ2FudmFz/LUJsYWNrLTEuanBn</image>
-        <url>https://www.saksfifthavenue.com/?orgin=%2Fproduct%2Fgucci-gg-marmont-small-shoulder-bag-0400012256422.html</url>
+        <company>Samsung</company>
+        <product>Galaxy Z Flip4</product>
+        <prices>₱58,990.00</prices>
+        <image>https://images.samsung.com/ph/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv_s.jpg</image>
+        <url>https://www.samsung.com/ph/smartphones/galaxy-z-flip4/</url>
     </link>
     <link>
-        <company>NIKE CLOTHING</company>
-        <product>NIKE SPORTSWEAR AIR</product>
-        <prices>₱1,395</prices>
-        <image>https://imgs.search.brave.com/yZOzVbz8N07zcSptcIPlQLpORz9qd-baMjELWD7E7Sg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9ydW5h/c3RvcmUucGUvbWVk/aWEvY2F0YWxvZy9w/cm9kdWN0L2NhY2hl/LzEvaW1hZ2UvMTYw/MHgvMDQwZWMwOWIx/ZTM1ZGYxMzk0MzM4/ODdhOTdkYWE2NmYv/Yy9kL2NkMDg4MS0x/MDItMDAxX18yLmpw/Zw</image>
-        <url>https://www.nike.com/sportswear</url>
+        <company>IKEA</company>
+        <product>STRÅLA</product>
+        <prices>₱290</prices>
+        <image>https://www.ikea.com/ph/en/images/products/strala-lamp-shade-lace-white__0430597_pe584694_s5.jpg?f=xs</image>
+        <url>https://www.ikea.com/ph/en/p/strala-lamp-shade-lace-white-00536346/</url>
     </link>
     <link>
-        <company>NIKE CLOTHING</company>
-        <product>NIKE ACG ICON FLEECE</product>
-        <prices>₱3,195</prices>
-        <image>https://imgs.search.brave.com/O_ghgE0niQiM8wsRf_nhYIoTp9d3gvzOMeKfHV2eApI/rs:fit:360:283:1/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzMzMTI4NTEyL3Iv/aWwvY2FjMGUzLzM4/MDc5NTk5NjUvaWxf/ZnVsbHhmdWxsLjM4/MDc5NTk5NjVfb3I3/Mi5qcGc</image>
-        <url>https://www.nike.com/ph/t/acg-icon-fleece-big-kids-hoodie-7lwknZ</url>
+        <company>IKEA</company>
+        <product>VINTERFINT</product>
+        <prices>₱1,290</prices>
+        <image>https://www.ikea.com/ph/en/images/products/vinterfint-decoration-set-of-8-winter-village__1087626_pe860815_s5.jpg?f=xs</image>
+        <url>https://www.ikea.com/ph/en/p/vinterfint-decoration-set-of-8-winter-village-90527333/</url>
     </link>
     <link>
-        <company>CASIO WATCH</company>
-        <product>G-SCHOCK</product>
-        <prices>PHP1,396</prices>
-        <image>https://imgs.search.brave.com/ES-1DmTpLPB3MYHp_V83vEJcSeRDLU36siYbtGkdHOE/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly93d3cu/bWFzdGVyc2ludGlt/ZS5jb20vcGljdHVy/ZXMvZy1zaG9jay1n/YXJpc2gtYmxhY2st/Z2EtMTEwZ2ItMWFl/ci0zNjUzMzQxLmpw/Zw</image>
-        <url>https://gshock.casio.com/us/</url>
+        <company>LTT Store</company>
+        <product>BACKPACK</product>
+        <prices>Regular price$249.99 USD</prices>
+        <image>https://cdn.shopify.com/s/files/1/0058/4538/5314/products/lttstore_Backpack_TransparencyFile.png?v=1659564952&width=713</image>
+        <url>https://www.lttstore.com/products/backpack?_pos=1&_sid=175fe41f6&_ss=r</url>
     </link>
     <link>
-        <company>CASIO WATCH</company>
-        <product>CASIO EDIFICE</product>
-        <prices>12,515</prices>
-        <image>https://imgs.search.brave.com/mdu5sWpspNNWoedZjPQbT4bHouEzwY1yE4hv-iyDQDQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/d2F0Y2huYXRpb24u/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzA0LzE1NzA5/NjI5Ni5qcGc</image>
-        <url>https://www.casio.com/us/watches/edifice/</url>
+        <company>LTT Store</company>
+        <product>SCREWDRIVER</product>
+        <prices>Regular price$69.99 USD</prices>
+        <image>https://cdn.shopify.com/s/files/1/0058/4538/5314/products/AdditionalLTTScrewDriverPhotos-2000px-3.jpg?v=1661885824&width=713</image>
+        <url>https://www.lttstore.com/products/screwdriver?_pos=1&_sid=675601dee&_ss=r</url>
     </link>
     <link>
-        <company>RUSI</company>
-        <product>RUSI DL 125</product>
-        <prices>₱ 16,000.00</prices>
-        <image>https://imgs.search.brave.com/qrH3Pjl6ag6vuHgGvdnRgTNZqYBAIz26DlBUvCJvI6Y/rs:fit:600:437:1/g:ce/aHR0cHM6Ly93d3cu/bW90b21hZ3BoaWxp/cHBpbmVzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8x/MC9BLi1SVVNJREwx/MjUtNjAweDQzNy5q/cGc</image>
-        <url>https://www.motomagphilippines.com/product/rusidl125/</url>
+        <company>Chewy</company>
+        <product>Pedigree Complete Nutrition Roasted Chicken, Rice & Vegetable Flavor Dog Kibble Adult Dry Dog Food</product>
+        <prices>$27.78</prices>
+        <image>https://image.chewy.com/is/image/catalog/362466_MAIN._AC_SL600_V1643222824_.jpg</image>
+        <url>https://www.chewy.com/pedigree-complete-nutrition-roasted/dp/388684</url>
     </link>
     <link>
-        <company>RUSI</company>
-        <product>Rusi MP-125 Surf</product>
-        <prices> 30000.0 PHP</prices>
-        <image>https://imgs.search.brave.com/cW58Avu7SCK7PD0PqU1tQ-ZX5udEt40wciYG7y9HAb0/rs:fit:600:435:1/g:ce/aHR0cHM6Ly93d3cu/bW90b21hZ3BoaWxp/cHBpbmVzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8x/MC9BLi1SVVNJTVAx/MjUtWi02MDB4NDM1/LmpwZw</image>
-        <url>https://www.carousell.ph/p/brandnew-rusi-mp-125-surf-1080990462/</url>
+        <company>Chewy</company>
+        <product>Fancy Feast Gravy Lovers Poultry & Beef Feast Variety Pack Canned Cat Food</product>
+        <prices>$18.99Chewy Price
+        </prices>
+        <image>https://image.chewy.com/is/image/catalog/75978_MAIN._AC_SL1200_V1584020010_.jpg</image>
+        <url>https://www.chewy.com/fancy-feast-gravy-lovers-poultry-beef/dp/103856</url>
     </link>
 </page>
