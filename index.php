@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DynamicXML</title>
+</head>
+<body>
 <?php
 if(isset($_POST['send'])){
     $xml = new DOMDocument("1.0", "UTF-8");
@@ -27,12 +33,6 @@ if(isset($_POST['send'])){
     echo "Error";
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>DynamicXML</title>
-</head>
-<body>
 <form action="index.php" method="post">
   <label for="company">Choose a company : </label>
   <select name="company" id="company">
