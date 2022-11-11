@@ -22,7 +22,7 @@ if(isset($_POST['send'])){
 
     $xml -> save("dynamicXML.xml");
 
-    echo "<br/> Successfully Added";
+    echo "Successfully Added";
 }else {
     echo "Error";
 }
