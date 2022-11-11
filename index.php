@@ -3,7 +3,7 @@ if(isset($_POST['send'])){
     $xml = new DOMDocument("1.0", "UTF-8");
     $xml -> load("dynamicXML.xml");
 
-    $root = $xml -> getlementsByTagName("pages") -> item(0);
+    $root = $xml -> getElementsByTagName("pages") -> item(0);
 
     $link = $xml -> createElement("link");
     $company = $xml -> createElement("company", $_POST['comopany']);
