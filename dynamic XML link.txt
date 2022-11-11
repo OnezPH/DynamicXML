@@ -1,1 +1,0 @@
-https://dynamic-xml.herokuapp.com/dynamicXML.xml
