@@ -24,14 +24,12 @@ if(isset($_POST['send'])){
 
     echo "<br/> Successfully Added";
 }else {
-    echo "<br/> Error";
+    echo "Error";
 }
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>DynamicXML</title>
 </head>
 <body>
