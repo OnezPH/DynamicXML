@@ -26,17 +26,23 @@ $dynamicXML=simplexml_load_file("dynamicXML.xml") or die("Error: Cannot create o
     </optgroup>
   </select>
   <br>
+  <br>
   <label for="product">Product : </label>
   <input id="product" type="text">
+  <br>
   <br>
   <label for="prices">Prices : </label>
   <input id="prices" type="number">
   <br>
+  <br>
   <label for="image">Image : </label>
   <input id="image" type="file">
   <br>
+  <br>
   <label for="url">URL : </label>
   <input id="url" type="url">
+  <br>
+  <br>
   <input type="submit" value="Submit">
 </form>
 </body>
