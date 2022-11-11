@@ -35,7 +35,7 @@ if(isset($_POST['send'])){
     <title>DynamicXML</title>
 </head>
 <body>
-<form action="/action_page.php" method="get">
+<form action="index.php" method="get">
   <label for="company">Choose a company : </label>
   <select name="company" id="company">
     <optgroup label="Company">
