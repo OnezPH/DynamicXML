@@ -35,7 +35,7 @@ if(isset($_POST['send'])){
     <title>DynamicXML</title>
 </head>
 <body>
-<form action="index.php" method="get">
+<form action="index.php" method="post">
   <label for="company">Choose a company : </label>
   <select name="company" id="company">
     <optgroup label="Company">
@@ -54,19 +54,19 @@ if(isset($_POST['send'])){
   <br>
   <br>
   <label for="product">Product : </label>
-  <input id="product" type="text">
+  <input id="product" type="text" name="product">
   <br>
   <br>
   <label for="prices">Prices : </label>
-  <input id="prices" type="number">
+  <input id="prices" type="number" name="prices">
   <br>
   <br>
   <label for="image">Image : </label>
-  <input id="image" type="file">
+  <input id="image" type="file" name=""image>
   <br>
   <br>
   <label for="url">URL : </label>
-  <input id="url" type="url">
+  <input id="url" type="url" name="url">
   <br>
   <br>
   <input type="submit" value="Submit">
