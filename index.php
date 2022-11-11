@@ -1,5 +1,31 @@
 <?php
-$dynamicXML=simplexml_load_file("dynamicXML.xml") or die("Error: Cannot create object");
+if(isset($_POST['send'])){
+    $xml = new DOMDocument("1.0", "UTF-8");
+    $xml -> load("dynamicXML.xml");
+
+    $root = $xml -> getlementsByTagName("pages") -> item(0);
+
+    $link = $xml -> createElement("link");
+    $company = $xml -> createElement("company", $_POST['comopany']);
+    $product = $xml -> createElement("product", $_POST['product']);
+    $prices = $xml -> createElement("prices", $_POST['prices']);
+    $image = $xml -> createElement("image", $_POST['image']);
+    $url = $xml -> createElement("url", $_POST['url']);
+
+    $link -> appendChild($company);
+    $link -> appendChild($product);
+    $link -> appendChild($prices);
+    $link -> appendChild($image);
+    $link -> appendChild($url);
+
+    $root -> appendChild($link);
+
+    $xml -> save("dynamicXML.xml");
+
+    echo "<br/> Successfully Added";
+}else {
+    echo "<br/> Error";
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
